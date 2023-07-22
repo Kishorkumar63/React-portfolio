@@ -5,7 +5,7 @@ const Skills = () => {
   <section id="skills">
 <div className='container' >
 <h1 className="text-center page-header" style={{"font-weight": "700"}}>Skills</h1>
-    <h4 className="text-center">My Technical Level</h4>
+    <h4 className="text-center" style={{"font-family": 'Crete Round'}}>My Technical Level</h4>
 <div className="row">
 <div className="col   col-md-4">
   </div>

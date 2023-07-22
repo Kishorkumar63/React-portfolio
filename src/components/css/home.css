@@ -1,5 +1,6 @@
 /* home */
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Crete+Round:ital@0;1&family=Poppins:wght@500&family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Crete+Round:ital@0;1&family=Kalam:wght@700&family=Poppins:wght@500&family=Roboto:ital@1&display=swap');
+
 
 
 .container{
@@ -131,7 +132,8 @@
     }
     #home .container .row .col div p {
         line-height: 25px;
-       font-family: cursive;
+        font-family: 'Kalam', sans-serif;
+
         font-size: 20px;
         font-style:italic;
         color: black;
@@ -146,7 +148,8 @@
         border-radius: 100px;
         box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
         cursor: pointer;
-        width: 400px;
+        width: 450px;
+        border-radius: 50%;
     
     
     

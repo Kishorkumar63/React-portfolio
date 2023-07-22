@@ -4,7 +4,7 @@ const Contact = () => {
   return (
 <section id="Contact">
     <h1 className="text-center page-header" style={{"font-weight": "700"}}>Contact</h1>
-    <h5 className="text-center" style={{"font-weight": "700"}}>Get In Touch</h5>
+    <h5 className="text-center" style={{"font-weight": "700" ,"font-family": 'Crete Round'}}>Get In Touch</h5>
     <div className="container">
         <div className="row">
       <div className="col-md-6 col" data-aos="fade-down"

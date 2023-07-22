@@ -1,4 +1,7 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Crete+Round:ital@0;1&family=Kalam:wght@700&family=Poppins:wght@500&family=Roboto:ital@1&display=swap');
+
+
 #about{
     margin-top: 30px;
 }
@@ -76,6 +79,7 @@ body.active #about .container .row .col .course .complete h4 {
     }
     #about .container .row .col  p {
         margin-top: 15px;
+        font-family: 'Kalam', sans-serif;
     }
 
 }

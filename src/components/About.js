@@ -23,7 +23,7 @@ const About = () => {
       data-aos-easing="ease-in-sine" >
 
         <div className="p">
-          <p style={{"font-family": "cursive"}}>Web developer focused on crafting great web experiences. Designing and Coding have been my passion since
+          <p >Web developer focused on crafting great web experiences. Designing and Coding have been my passion since
             the days I started working with computers.</p>
         </div>
         <div className="course">

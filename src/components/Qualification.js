@@ -22,7 +22,7 @@ const Qualification = () => {
 
     <section id="qualification">
     <h1 className="text-center page-header" style={{"font-weight":"700"}}> Qualification</h1>
-    <h5 className="text-center" style={{"font-weight": "700"}}>My personal journey</h5>
+    <h5 className="text-center" style={{"font-weight": "700","fontFamily": 'Crete Round'}}>My personal journey</h5>
     <div className="container">
     <div className="row">
 
@@ -49,7 +49,7 @@ const Qualification = () => {
           <div className="edu" style={{"margin-top": "80px"}}>
             <div className="data">
               <h4> <span style={{"display": "block"}}>Web Developement</span></h4>
-              <h5>Master className</h5>
+              <h5>Master class</h5>
               <h6><i className="fa-solid fa-calendar-days"></i> 2023</h6>
             </div>
             <div className="toggle">

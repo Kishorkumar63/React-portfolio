@@ -8,7 +8,7 @@ const Portfolio = () => {
   return (
    <section className="portfolio" id='portfolio' style={{"marginTop":"30px"}}>
 <h1 className="text-center page-header" style={{"font-weight": "700"}}>Portfolio</h1>
-    <h4 className="text-center">My recent work
+    <h4 className="text-center" style={{"font-family": 'Crete Round'}}>My recent work
 </h4>
     <div className='container'>
         <div className="row">

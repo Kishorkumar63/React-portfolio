@@ -16,7 +16,7 @@ const Home = () => {
        <div>
          <h2>Hi, I'am Kishor K</h2>
        </div>
-       <h4>FullStack Developer</h4>
+       <h4 style={{"font-family": 'Crete Round, serif'}}>FullStack Developer</h4>
        <div>
          <p>I am junior web developer and independent freelancer, helping clients by providing good quality service on
            web development.I am junior web developer and independent freelancer, helping clients by providing good
