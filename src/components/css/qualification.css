@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:ital@1&display=swap');
+
+
+#qualification .container .col {
+
+
+
+    display: flex;
+
+    justify-content: space-evenly;
+   font-family: 'Crete Round', serif;
+
+
+
+}
+
+#qualification {
+    margin-top: 40px;
+}
+
+#qualification .container .col div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+
+#qualification .container .col div .Education.active {
+    color: rgb(0, 183, 255);
+}
+
+#qualification .container .col div .Certificate-header.active {
+    color: rgb(0, 183, 255);
+}
+
+#qualification .container .col div .data.active {
+    display: none;
+}
+
+#qualification .container .col div .toggle {
+    display: none;
+}
+
+#qualification .container .col div .toggle.active {
+    display: block;
+}
+
+body.active #Qualification .container .col div {
+    color: white;
+}

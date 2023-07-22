@@ -1,0 +1,32 @@
+.container .row{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.container .row .accordion-item h2 button{
+font-weight: bold;
+font-size: 1.3rem;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    
+   
+}
+
+.container .row .accordion-item h1 button{
+font-weight: bold;
+font-size: 1.3rem;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    
+   
+}
+
+@media (max-width:990px)
+{
+    .container .row .col{
+   width: 400px;
+    }
+
+}

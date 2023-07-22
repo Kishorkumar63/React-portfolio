@@ -1,0 +1,15 @@
+#footer .container-fluid{
+
+    font-family: 'Crete Round', serif;
+    
+
+}
+#footer{
+
+    width: 100%;
+}
+#footer .container-fluid .col{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:ital@1&display=swap');
+
+
+#Contact{
+    margin-top: 25px;
+  
+
+}
+#Contact .container .row{
+    display:flex;
+   
+
+} 
+#Contact .container .row .col{
+display: flex;
+flex-direction: column;
+gap: 20px;
+justify-content: space-between;
+font-family: 'Crete Round', serif;
+
+}
+#Contact .container .row .col form label{
+text-align: start;
+}
+
+@media (max-width:990px){
+    #Contact .container .row{
+
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+        
+
+    }   
+}

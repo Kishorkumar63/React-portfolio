@@ -1,0 +1,155 @@
+/* home */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Crete+Round:ital@0;1&family=Poppins:wght@500&family=Roboto:ital@1&display=swap');
+
+
+.container{
+   
+   margin-top: 90px;
+}
+.container .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+#home .container .col div h2 {
+    font-family: serif;
+
+    font-style: oblique;
+    color: black;
+    font-weight: 700;
+    font-size: 54px;
+    text-align: center;
+
+   
+      width: 200px;  
+
+}
+#home .container .col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+#home .container .col h4 {
+    font-weight: 700;
+    margin-top: 20px;
+
+}
+
+#home .container .row .col div p {
+    line-height: 25px;
+   font-family:cursive;
+    font-size: 20px;
+    font-style:italic;
+    color: black;
+    font-weight: bold;
+   max-width:500px;
+   padding: 10px;
+    text-align: justify;
+
+}
+#home .container .col img {
+    border-radius: 100px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    cursor: pointer;
+    width:450px;
+
+
+
+}
+#home .container .row .img{
+    display: flex;
+    align-items:center ;
+    
+}
+
+#home .container .col div button {
+    margin-top: 20px;
+}
+
+#home .container-fluid .col .btns {
+    margin-top: 50px;
+}
+
+#home .container-fluid .cols .btns:hover {
+    transition: 0.5s;
+
+    animation: 2s ease-in infinite scroll;
+
+}
+
+#home .container-fluid .cols .btns button {
+    background-color: none;
+}
+
+@keyframes scroll {
+    from {
+        transform: translateY(-10px);
+
+    }
+
+    to {
+        transform: translateY(10px);
+        ;
+    }
+
+}
+
+@media (max-width:990px)
+{
+    .container .row {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    
+    }
+    #home .container .col div{
+        margin-top: 10px;
+    }
+    #home .container .col div h2 {
+        font-family:serif;
+        font-style: oblique;
+        color: black;
+        display: block;
+        font-weight: 700;
+        font-size: 40px;
+        width:300px;
+       
+
+    }
+    #home .container .row .col{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+    }
+    #home .container .row .img{
+        display: flex;
+        align-items:center ;
+       
+    }
+    #home .container .row .col div p {
+        line-height: 25px;
+       font-family: cursive;
+        font-size: 20px;
+        font-style:italic;
+        color: black;
+        font-weight: bold;
+     
+       max-width:550px;
+       padding: 15px;
+        text-align: justify;
+    
+    }
+    #home .container .col img {
+        border-radius: 100px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+        cursor: pointer;
+        width: 400px;
+    
+    
+    
+    }
+
+}

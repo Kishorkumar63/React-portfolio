@@ -1,0 +1,81 @@
+
+#about{
+    margin-top: 30px;
+}
+#about .container .row .cols img {
+    border-radius: 8px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+#about .container .row .col  p {
+    line-height: 25px;
+    font-size: 20px;
+    font-style: italic;
+   
+    font-weight: bold;
+    width: 400px;
+    text-align: justify;
+}
+#about .container .row .col{
+    display: flex;
+    justify-content: space-between;
+
+    flex-direction: column;
+    align-items: center;
+}
+
+#about .container .row .cols{
+    display: flex;
+   
+    align-items: center;
+    justify-content:center;
+}
+
+
+#about .container .row .col .course {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#about .container .row .col .course .month,
+#about .container .row .col .course .pro,
+#about .container .row .col .course .complete {
+
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+#about .container .row .col .course .month h4,
+#about .container .row .col .course .pro h4,
+#about .container .row .col .course .complete h4 {
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+
+}
+
+body.active #about .container .row .col div p,
+body.active #about .container .row .col .course .month h4,
+body.active #about .container .row .col .course .pro h4,
+body.active #about .container .row .col .course .complete h4 {
+    color: white;
+}
+
+@media (max-width:990px)
+{
+    #about .container .row {
+        display: flex;
+        flex-direction: column;
+    }
+    #about .container .row .col  p {
+        margin-top: 15px;
+    }
+
+}
