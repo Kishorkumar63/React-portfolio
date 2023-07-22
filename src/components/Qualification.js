@@ -83,7 +83,7 @@ const Qualification = () => {
 
 
               <h4><span style={{"display": "block"}}>Html &&  css Bootstrap && Javascript && React Js </span></h4>
-              <h5>Master className</h5>
+              <h5>Master class</h5>
               <h6><i className="fa-solid fa-calendar-days"></i> 2023</h6>
             </div>
             <div className="toggle">
@@ -96,7 +96,7 @@ const Qualification = () => {
             <div className="data">
 
               <h4><span style={{"display": "block"}}>python</span></h4>
-              <h5>Master className</h5>
+              <h5>Master class</h5>
               <h6><i className="fa-solid fa-calendar-days"></i> 2022</h6>
             </div>
             <div className="toggle">
@@ -109,7 +109,7 @@ const Qualification = () => {
             <div className="data">
 
               <h4><span style={{"display": "block"}}>React js</span></h4>
-              <h5>Master className</h5>
+              <h5>Master class </h5>
               <h6><i className="fa-solid fa-calendar-days"></i> 2022</h6>
             </div>
             <div className="toggle">
