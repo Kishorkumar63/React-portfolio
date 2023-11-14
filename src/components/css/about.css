@@ -50,7 +50,7 @@
     width: 300px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    /* align-items: center; */
 
 
 }
@@ -79,11 +79,12 @@ body.active #about .container .row .col .course .complete h4 {
     }
     #about .container .row .col  p {
         margin-top: 15px;
-        font-family: 'Kalam', sans-serif;
+    
+      margin: 15px 30px;
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     #about .container .row .cols img{
-        width: 290px;
+        width: 300px;
     }
     .container .row .col div p{
         /* background-color: red; */

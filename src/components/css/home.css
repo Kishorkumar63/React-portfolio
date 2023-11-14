@@ -106,7 +106,7 @@
   .container .row {
     display: flex;
     flex-direction: column-reverse;
-    align-items: center;
+    /* align-items: center; */
   }
   #home .container .col div {
     margin-top: 10px;
