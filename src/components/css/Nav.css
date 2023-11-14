@@ -1,8 +1,18 @@
-nav{background-color:#48dbfb;
-    font-family: 'Crete Round', serif;
+nav {
+  background-color: #48dbfb;
+  font-family: "Crete Round", serif;
 
-  
-font-size: 22px;
-
-
+  font-size: 22px;
 }
+
+li {
+  margin-left: 20px;
+}
+
+
+@media (max-width: 990px) {
+  li {
+    margin-left: -35px;
+  }
+}
+

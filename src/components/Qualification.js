@@ -42,7 +42,7 @@ const Qualification = () => {
             </div>
             <div className="toggle">
               <h4>Web Developement</h4>
-              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="ww"
+              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="https://www.guvi.in/verify-certificate?id=NY8De151l6dz375L84"
                   style={{"text-decoration": "none", "color": "white"}}> View Certificate </a> </button>
             </div>
           </div>
@@ -54,8 +54,8 @@ const Qualification = () => {
             </div>
             <div className="toggle">
               <h4>GitHub</h4>
-              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="s"
-                  style={{"text-decoration": "none","color": "white;"}}> Github Certificate </a> </button>
+              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="https://www.guvi.in/verify-certificate?id=13FU6478J59HY863q0"
+                  style={{"text-decoration": "none","color": "white"}}> View Certificate </a> </button>
             </div>
           </div>
           <div className="edu" style={{"margin-top": "80px"}}>
@@ -65,8 +65,8 @@ const Qualification = () => {
               <h6><i className="fa-solid fa-calendar-days"></i> 2023</h6>
             </div>
             <div className="toggle">
-              <h4>Intenship</h4>
-              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="sa"
+              <h4>Mongo DB</h4>
+              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="https://www.guvi.in/verify-certificate?id=9R56636XC1923q8h10"
                   style={{"text-decoration": "none","color": "white"}}> View Certificate </a> </button>
             </div>
           </div>
@@ -88,7 +88,7 @@ const Qualification = () => {
             </div>
             <div className="toggle">
               <h4>Html, Css, JavaScript</h4>
-              <button className="btn btn-info" style={{"border-radius":"10px"}}> <a href="s"
+              <button className="btn btn-info" style={{"border-radius":"10px"}}> <a href="https://www.guvi.in/verify-certificate?id=gDSA8818M34t13y069"
                   style={{"text-decoration": "none", "color": "white"}}> View Certificate </a> </button>
             </div>
           </div>
@@ -100,8 +100,8 @@ const Qualification = () => {
               <h6><i className="fa-solid fa-calendar-days"></i> 2022</h6>
             </div>
             <div className="toggle">
-              <h4>Python</h4>
-              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="kscjks"
+              <h4>React Js</h4>
+              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="https://www.guvi.in/verify-certificate?id=6sri8k3KM29581x59q"
                   style={{"text-decoration": "none", "color": "white"}}> View Certificate </a> </button>
             </div>
           </div>
@@ -113,8 +113,8 @@ const Qualification = () => {
               <h6><i className="fa-solid fa-calendar-days"></i> 2022</h6>
             </div>
             <div className="toggle">
-              <h4>React Js</h4>
-              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="g"
+              <h4>Node Js</h4>
+              <button className="btn btn-info" style={{"border-radius": "10px"}}> <a href="https://www.guvi.in/verify-certificate?id=c40pGr12Y49M161534"
                   style={{"text-decoration": "none", "color":" white"}}> View Certificate </a> </button>
             </div>
           </div>
