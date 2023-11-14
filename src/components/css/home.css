@@ -30,9 +30,8 @@
 #home .container .col h4 {
   font-weight: 700;
   margin-top: 20px;
-  
 }
-.Name{
+.Name {
   font-size: 20px;
   font-weight: 500;
   color: rgb(255, 0, 0);
@@ -68,7 +67,7 @@
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
     rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
   cursor: pointer;
-  width: 400px;
+  width: 450px;
 }
 #home .container .row .img {
   display: flex;
@@ -103,7 +102,6 @@
   }
 }
 
-
 @media (max-width: 990px) {
   .container .row {
     display: flex;
@@ -134,10 +132,10 @@
   }
   #home .container .row .col div p {
     line-height: 25px;
-    font-family: "Kalam", sans-serif;
+    font-family: cursive;
 
     font-size: 20px;
-    font-style: italic;
+    /* font-style: italic; */
     color: black;
     font-weight: bold;
 
@@ -150,7 +148,7 @@
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
       rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     cursor: pointer;
-    width: 370px;
+    width: 350px;
     border-radius: 50%;
   }
 }
