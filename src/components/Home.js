@@ -14,7 +14,7 @@ const Home = () => {
               data-aos-duration="2000"
             >
               <div>
-                <h2>Hi, I'am Kishor K</h2>
+                <h2>Hi, I'am Kishor </h2>
               </div>
               <h4 style={{ "font-family": "Crete Round, serif" }}>
                 MERN Stack Developer
