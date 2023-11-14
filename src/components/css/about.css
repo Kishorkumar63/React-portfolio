@@ -80,6 +80,7 @@ body.active #about .container .row .col .course .complete h4 {
     #about .container .row .col  p {
         margin-top: 15px;
         font-family: 'Kalam', sans-serif;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     #about .container .row .cols img{
         width: 290px;
@@ -88,6 +89,8 @@ body.active #about .container .row .col .course .complete h4 {
         /* background-color: red; */
         margin: 0px 10px;
         text-align: justify;
+      
+
         padding: 10px;
     }
 
