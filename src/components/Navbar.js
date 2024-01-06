@@ -52,14 +52,14 @@ const Navbar = () => {
               <a
                 style={{ color: "black" }}
                 className="nav-link"
-                href="#portfolio"
+                href="#Contact"
               >
              
                 {/* <i className="fa-solid fa-phone"></i> */}
                  ContactMe
               </a>
             </li>
-            <div class="animate"></div>
+          
           </ul>
           {/* <a className="navbar-brand fw-bolder fs-4 mx-auto" href="d">Kishor</a> */}
           {/* <button classNameName='btn btn-outline-primary ms-auto px-4 rounded-pill'><i className="fa-solid fa-right-to-bracket"></i>  Login</button>
