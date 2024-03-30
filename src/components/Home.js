@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./css/home.css";
-import Logo from "./img/3.jpg";
+import Logo from "./img/logo.jpeg";
 const Home = () => {
   return (
     <div className="Home">
