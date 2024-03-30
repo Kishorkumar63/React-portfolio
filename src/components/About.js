@@ -2,6 +2,7 @@ import React from 'react'
 
 import "./css/about.css"
 import about from "./img/logo2.jpg"
+import resume from "./img/resume.pdf"
 
 const About = () => {
   return (
@@ -52,7 +53,7 @@ const About = () => {
         <button className="btn " style={{"background-color": "rgb(0, 183, 255)" ," font-weight": "600" ,"color": "white","margin-top":" 20px","  background-color": "rgb(0, 183, 255)",
        " width": "120px",
         "height":" 45px",
-        "border-radius":"5px"}}> <a href="/img/resume.pdf" download style={{"text-decoration": "none", "color": "white"}}> Resume <i
+        "border-radius":"5px"}}> <a href={resume} download style={{"text-decoration": "none", "color": "white"}}> Open Cv <i
               className="fa-solid fa-file"></i> </a>
         </button>
       </div>
